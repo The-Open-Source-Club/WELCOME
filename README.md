@@ -1,4 +1,4 @@
-# WELCOME <br>
+# WELCOME :computer: <br>
 ![alt text](https://github.com/The-Open-Source-Club/WELCOME/blob/master/osc.jpeg)
 <br><br>
 ### **OSC** club brings you an opportunity to participate and contribute in various open source projects<br>
